@@ -1,0 +1,36 @@
+#idDataSourceMonitorTable,
+#idConnectionMonitorTable {
+	margin: 15px 0;
+	-webkit-box-shadow: 5px 5px 5px #aaa;
+	-moz-box-shadow: 5px 5px 5px #aaa;
+	box-shadow: 5px 5px 5px #aaa;
+}
+
+#idDataSourceMonitorTable,
+#idConnectionMonitorTable {
+	width: 75%;
+}
+
+#idSqlMonitorTable {
+	margin: 6px 0 4px 0;
+	width: 90%;
+}
+
+#idDataSourceMonitorTable .k {
+	color: #400;
+}
+
+#idDataSourceMonitorTable .h {
+	padding-right: 10px;
+	text-align: right;
+}
+
+#idDataSourceMonitorTable .desc {
+	color: #777;
+	padding-top: 6px;
+}
+
+#idConnectionMonitorTable .form_tbl .l,
+#idSqlMonitorTable .form_tbl .l {
+	width: 150px;
+}
